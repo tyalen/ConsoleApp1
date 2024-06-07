@@ -19,7 +19,6 @@
             {"if", TokenType.KeyWord},
             {"else", TokenType.KeyWord},
             {"while", TokenType.KeyWord},
-            {"for", TokenType.KeyWord},
             {"print", TokenType.KeyWord},
             {"scan", TokenType.KeyWord},
             {"int", TokenType.KeyWord},
